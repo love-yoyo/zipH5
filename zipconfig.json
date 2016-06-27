@@ -1,0 +1,16 @@
+{
+    "ignore": {
+        "dirs": [".DS_Store", "node_modules", ".git"],
+        "files": [".gitignore", ".DS_Store", "MANIFEST.properties"]
+    },
+    "project": {
+        "options": {
+            "cwd": "./src",
+            "version": "1.0.0",
+            "platform": "android",
+            "dest": "./dist"
+        },
+        "sub": [
+        ]
+    }
+}

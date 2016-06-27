@@ -1,0 +1,5 @@
+node_modules
+lib/ziph5.pem
+dist
+src/*
+test.js
