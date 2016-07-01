@@ -3,3 +3,4 @@ lib/ziph5.pem
 dist
 src/*
 test.js
+.tmp
